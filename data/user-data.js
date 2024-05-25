@@ -1,13 +1,13 @@
 export const userData = {
-  githubUser: 'said7388',
-  devUsername: "said7388",
-  github: 'https://github.com/said7388',
-  facebook: 'https://www.facebook.com/abusaid.riyaz/',
-  linkedIn: 'https://www.linkedin.com/in/abu-said-bd/',
-  twitter: 'https://twitter.com/said7388',
-  stackOverflow: 'https://stackoverflow.com/users/16840768/abu-said',
-  leetcode: "https://leetcode.com/said3812/",
-  resume: "https://drive.google.com/file/d/1eyutpKFFhJ9X-qpQGKhUNnVRkB5Wer00/view?usp=sharing",
+  githubUser: 'ronakgupta11',
+  devUsername: "ronakgupta11",
+  github: 'https://github.com/ronakgupta11',
+  facebook:"",
+  stackoverflow:"",
+  linkedIn: 'https://www.linkedin.com/in/ronak-gupta-7428a1224/',
+  twitter: 'https://twitter.com/ronakguptark07',
+  leetcode: "https://leetcode.com/u/rkhacker/",
+  resume: "https://drive.google.com/file/d/1sG3ZnudFMIJCInroahkNOaS5h-Xk68Wh/view?usp=sharing",
   skills: ['React', 'NextJS', 'Redux', 'Express', 'NestJS', 'MySql', 'MongoDB', 'Postgres', 'Docker', 'AWS'],
-  timezone: '+6'
+  timezone: '+5:30'
 };
